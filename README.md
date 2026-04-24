@@ -19,7 +19,7 @@ Common thread: **the operator manual (`CLAUDE.md` / prompts / YAML schemas) is t
 - **Product manager** at 168robotics (outdoor autonomous cleaners) — 2023–2025
 - **Independent consultant / interim CPO** — 2014–2023
 - **Business partner** on the MFC project for the Republic of Sakha (Yakutia) — 2009–2011. Awarded by the President of Sakha for socio-economic contribution.
-- **NES** (MAE'14) · **LSE EAP** (2011) · **OmSU** (Economist, 2004)
+- **NES** (MAE'14) · **OmSU** (Economist, 2004)
 
 ## Open to
 
