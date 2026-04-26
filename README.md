@@ -1,8 +1,8 @@
 # Hi, I'm Andrey 👋
 
-Product manager · 20 years shipping technology products · currently building AI products end-to-end.
+Product manager · 20 years shipping technology products · currently building AI products.
 
-I've led product at a robotics startup (outdoor autonomous robots — SLAM, CV-ML, ROS, 35+ engineers, first sale), run a decade as an independent consultant (helped one client grow from 800M ₽ to 4B ₽), and launched public-service programmes that were replicated federally. Today I'm focused on the intersection of product management and applied AI: prompting, RAG, agents, MCP, evals.
+I've led product development at robotics startup (outdoor autonomous robots — SLAM, CV-ML, ROS, 35+ engineers, first sale), run a decade as an independent consultant (helped one client grow from ₽800M to ₽4B), and launched public-service organization. Today I'm focused on the intersection of product management and applied AI: prompting, RAG, agents, MCP, evals.
 
 ## What I'm building right now
 
@@ -16,13 +16,13 @@ Common thread: **the operator manual (`CLAUDE.md` / prompts / YAML schemas) is t
 
 ## Background
 
-- **Product manager** at 168robotics (outdoor autonomous cleaners) — 2023–2025
+- **Chief product manager** at 168robotics (outdoor autonomous cleaners) — 2023–2025
 - **Independent consultant / interim CPO** — 2014–2023
-- **Business partner** on the MFC project for the Republic of Sakha (Yakutia) — 2009–2011. Awarded by the President of Sakha for socio-economic contribution.
+- **Project and product lead** on the MFC project for the Republic of Sakha (Yakutia) — 2009–2011. Awarded by the President of Sakha for socio-economic contribution.
 - **NES** (MAE'14) · **OmSU** (Economist, 2004)
 
 ## Open to
 
-Senior / Lead / CPO roles in AI-native product work. Moscow-based; open to remote or relocation. Happy to work with foreign teams via ИП/самозанятость.
+Senior / Lead / CPO roles in AI-native product work. Moscow-based; open to remote or relocation. Happy to work with foreign teams.
 
 Reach me: [akireykov@nes.ru](mailto:akireykov@nes.ru) · [Telegram @andreynki](https://t.me/andreynki)
