@@ -23,6 +23,6 @@ Common thread: **the operator manual (`CLAUDE.md` / prompts / YAML schemas) is t
 
 ## Open to
 
-Senior / Lead / CPO roles in AI-native product work. Moscow-based; open to remote or relocation. Happy to work with foreign teams.
+Senior / Lead / CPO roles in AI-native or robotics product work. Moscow-based; open to remote or relocation. Happy to work with foreign teams.
 
 Reach me: [akireykov@nes.ru](mailto:akireykov@nes.ru) · [Telegram @andreynki](https://t.me/andreynki)
