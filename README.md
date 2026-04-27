@@ -6,7 +6,7 @@ I've led product development at robotics startup (outdoor autonomous robots — 
 
 ## What I'm building right now
 
-Three small, deliberately-scoped projects exploring what AI-native knowledge work and agents actually look like in 2026:
+Three small, deliberately-scoped pet-projects exploring what AI-native knowledge work and agents actually look like in 2026:
 
 - **[study-vault-template](https://github.com/kireikov/study-vault-template)** — a template Obsidian vault where Claude (or any capable LLM) acts as the wiki's operator. The pattern: LLM as *compiler* of persistent wikis, not RAG retriever. Includes a ~400-line `CLAUDE.md` operator manual.
 - **[airesearch](https://github.com/kireikov/airesearch)** — a daily scout that watches six AI blogs, scores each article against my current research topics with Claude Haiku, and writes a dated digest into an Obsidian vault. Claude compiles anything I actually read into a living wiki.
